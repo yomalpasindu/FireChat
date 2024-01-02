@@ -1,4 +1,4 @@
-const Register = () => {
+const Login = () => {
   return (
     <div className="formContainer">
       <div className="formWrapper">
@@ -15,4 +15,4 @@ const Register = () => {
   );
 };
 
-export default Register;
+export default Login;
